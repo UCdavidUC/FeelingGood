@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Feeling Good</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_login">Log In</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_weight">Peso</string>
+    <string name="prompt_height">Estatura</string>
+    <string name="prompt_fecha_nac">Fecha de Nacimiento</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Registrarse</string>
+    <string name="error_invalid_email">La dirección de correo es inválida</string>
+    <string name="error_invalid_password">La contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">* Requerido</string>
+    <string name="permission_rationale">"Se requiere acceso a contactos para la función de autocompletar."
+    </string>
+    <string name="title_activity_sign_in">Registro</string>
+    <string name="title_activity_home">Home</string>
+</resources>
